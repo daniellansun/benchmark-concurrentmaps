@@ -1,9 +1,7 @@
-# benchmark-labs
-A labs project to measure performance
+# benchmark-concurrentmaps
+A labs project to measure performance of concurrent maps.
+Note: The project is forked from my another project https://github.com/danielsun1106/benchmark-labs
 
 ## Usage
-`run-tests <classifier>`
-
-Note: classifier can be `indy1`, `indy2`, `cs`
-
+`run-tests`
 
